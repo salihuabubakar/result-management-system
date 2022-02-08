@@ -1,0 +1,57 @@
+body {
+    background-color: #ccc;
+}
+
+.main {
+    background-color: white;
+    border: 1px solid black;
+    width: 20%;
+    margin: 0 auto 0 auto;
+}
+
+.sub-heading {
+    display: flex;
+    border-bottom: 1px solid black;
+}
+
+.item-main {
+    padding: 10px;
+}
+
+.todo-heading {
+   width: 60%; 
+}
+
+.todo-add {
+    width: 40%;
+    text-align: right;
+    margin-top: 30px;
+    
+}
+
+.todo-add a {
+    color: black;
+}
+
+
+.div-item {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+}
+
+.input  {
+    padding-left: 5px;
+}
+
+p {
+    white-space: pre-line;
+}
+
+
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
